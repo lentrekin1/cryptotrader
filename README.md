@@ -1,3 +1,3 @@
 # cryptotrader
 
-*hopefully* a program to trade crypto
+a program to trade crypto currencies
